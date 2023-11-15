@@ -1,0 +1,8 @@
+2023-11-15 12:49:30.635 INFO  test metodu başladı
+2023-11-15 12:49:30.637 WARN  warning mesaj test başladı
+2023-11-15 12:49:33.476 INFO  addToWishList test metodu bitti  passed 
+2023-11-15 12:49:33.476 WARN  warning mesaj test bitti
+2023-11-15 12:49:54.523 INFO  test metodu başladı
+2023-11-15 12:49:54.525 WARN  warning mesaj test başladı
+2023-11-15 12:49:56.306 INFO  addToWishList test metodu bitti  passed 
+2023-11-15 12:49:56.306 WARN  warning mesaj test bitti
