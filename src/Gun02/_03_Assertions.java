@@ -10,7 +10,7 @@ public class _03_Assertions {
         String s1="Merhaba";
         String s2="Merhaba1";
 
-        // Actul (oluşan), Expected (beklenen), Mesaj (Opsiyonel)
+        // Actual (oluşan), Expected (beklenen), Mesaj (Opsiyonel)
         //Assert.assertEquals(s1,s2);
         Assert.assertEquals(s1,s2,"oluşan la beklenen aynı değil");
     }

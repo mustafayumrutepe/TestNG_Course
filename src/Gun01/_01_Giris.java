@@ -21,7 +21,7 @@ public class _01_Giris {
 
     //Default olarak alfabetik sıraya göre çalışır
 
-    @Test(priority = 1) // default : 0, aynı sevilere yine alfabetik çalışır
+    @Test(priority = 1) // default : 0, aynı priority ler için yine alfabetik çalışır
     public void driverIslemleriniYap() {
         System.out.println("driverIslemleriniYap yapıldı");
     }
